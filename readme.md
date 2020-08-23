@@ -24,4 +24,12 @@ Multivariate Explorations: I have found that durations, season, months and bike 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+1. Distrubition of Duration:
+he shorter the duration then there are more numbers of bike trips conducted. This could be due to the cost associated with the trip length. For instance, longer duration would be expensive, so that is why many prefered shorter duration.
+2. Months with the most bike trips according to bike types:
+n the months of August, September and October there has been more trips conducted with electric bikes than standard bikes. That is because in Los Angeles those are the hottest months and with sufficient amount of sunlight, the electric bikes charges better. They require less effort for pedelling but they come at a higher price. So many people wanted to go with the cheaper option. In the months of January to April, there were very little number of people using electric bikes because it is not highly recommended to use electric bikes in the winter. The trips conducted with smart bikes is less because they cost more than standard and electric bikes.
+Summary of my findings:
+The main reasons for the increasing demand of bike trips is due to shorter duration, warmer months, bike types and trip route category.
+
+## Licences
+This project is made for Udacity Data Analytics course.
